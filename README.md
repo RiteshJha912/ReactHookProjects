@@ -4,5 +4,5 @@ Introducing the "Birthday Tracker" – a React.js app that elegantly lists all b
 View here - https://bitly.ws/3hKk3 
 
 2)Vacation planners -  
-Experience seamless tour browsing with, a React.js marvel powered by useState and useEffect.  Find your dream destination effortlessly through personalized recommendations and dynamic conditional rendering.  Start your adventure today with us!
-Tour Packages - https://bitly.ws/3hKk9
+Experience seamless tour browsing with, a React.js marvel powered by useState and useEffect.  Find your dream destination effortlessly through personalized recommendations and dynamic conditional rendering.  Start your adventure today with us!  
+View here - https://bitly.ws/3hKk9
