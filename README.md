@@ -8,5 +8,5 @@ Experience seamless tour browsing with, a React.js marvel powered by useState an
 View here - https://bitly.ws/3hKk9  
 
 3)Accordion Panel (Q&A) -
-Introducing an accordion panel designed to address the inquiries of website visitors in an engaging and interactive manner.  This feature showcases frequently asked questions (FAQs) along with their corresponding answers, all powered by React.js hooks.
+Introducing an accordion panel designed to address the inquiries of website visitors in an engaging and interactive manner.  This feature showcases frequently asked questions (FAQs) along with their corresponding answers, all powered by React.js hooks.  
 View here - https://bitly.ws/3hRtF
