@@ -17,3 +17,7 @@ Features:
 Menu Organization: The menu is displayed with food items categorized for easy navigation and browsing.  
 Dynamic Updates: The application dynamically updates to display newly added category items, ensuring that the menu remains up-to-date.  
 View here - https://bitly.ws/3hXtW
+
+5)Reviews Slider -  
+A sleek React.js component that showcases customer testimonials in an elegant slider format. Utilizing React.js state management with useEffect hooks, this slider seamlessly cycles through customer reviews, providing a dynamic and engaging user experience. Easily customizable and responsive, the Reviews Slider adds a professional touch to any website or application.
+View here - https://bitly.ws/3i8Tu
