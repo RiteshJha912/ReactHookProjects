@@ -20,4 +20,9 @@ View here - https://gleaming-cucurucho-f30cf6.netlify.app/
 
 5)Reviews Slider -  
 A sleek React.js component that showcases customer testimonials in an elegant slider format. Utilizing React.js state management with useEffect hooks, this slider seamlessly cycles through customer reviews, providing a dynamic and engaging user experience. Easily customizable and responsive, the Reviews Slider adds a professional touch to any website or application.  
-View here - https://mellifluous-raindrop-51d03e.netlify.app/
+View here - https://mellifluous-raindrop-51d03e.netlify.app/  
+
+6)Lorem Ipsum Generator -   
+Introducing a sleek React.js component that generates custom lorem ipsum paragraphs based on user input. Utilizing React.js state management with useState hooks, this component dynamically produces the desired number of placeholder paragraphs, providing an easy and interactive experience.  
+View here - https://664c9bd85cdabe232ea15041--guileless-dieffenbachia-7c47c4.netlify.app/     
+
