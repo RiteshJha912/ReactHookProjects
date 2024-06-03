@@ -27,11 +27,14 @@ Introducing a sleek React.js component that generates custom lorem ipsum paragra
 View here - https://664c9bd85cdabe232ea15041--guileless-dieffenbachia-7c47c4.netlify.app/     
 
 7)Taskify - https://superlative-biscochitos-8ef002.netlify.app/
+To do list app which helps in listing all your pending works and uses the local storage api of browser.
 
 8)Navbar/Dropdown Navbar - https://graceful-beignet-f69b9e.netlify.app/
 
 9)Sidebar - https://nimble-puffpuff-345d71.netlify.app/
 
 10)Hovering Submenu - https://aquamarine-malabi-406d67.netlify.app/
+A clone of the hero section of stripe payment gateway website with a functionalilty of displaying submenus when hovered upon.
 
 11)Drinks Carousel/Database - https://cocktail-bazaar-reactproject.netlify.app/
+Cocktail bazaar is a website with search fucntionality and multilayer pages made using react.  
