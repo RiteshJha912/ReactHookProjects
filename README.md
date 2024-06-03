@@ -26,3 +26,12 @@ View here - https://mellifluous-raindrop-51d03e.netlify.app/
 Introducing a sleek React.js component that generates custom lorem ipsum paragraphs based on user input. Utilizing React.js state management with useState hooks, this component dynamically produces the desired number of placeholder paragraphs, providing an easy and interactive experience.  
 View here - https://664c9bd85cdabe232ea15041--guileless-dieffenbachia-7c47c4.netlify.app/     
 
+7)Taskify - https://superlative-biscochitos-8ef002.netlify.app/
+
+8)Navbar/Dropdown Navbar - https://graceful-beignet-f69b9e.netlify.app/
+
+9)Sidebar - https://nimble-puffpuff-345d71.netlify.app/
+
+10)Hovering Submenu - https://aquamarine-malabi-406d67.netlify.app/
+
+11)Drinks Carousel/Database - https://cocktail-bazaar-reactproject.netlify.app/
